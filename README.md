@@ -44,3 +44,6 @@
    ![image](https://user-images.githubusercontent.com/75439689/104652798-a85a5c80-5687-11eb-8762-1c5289e499a6.png)
    
    *Figura 3.5*
+   
+   4. LISTA DE COMPONENTES
+   
