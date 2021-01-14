@@ -12,6 +12,7 @@
    
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/75439689/104661918-a26c7780-5697-11eb-81ee-3b699ec3a20c.png)
 
 3. DIAGRAMAS
 
@@ -45,5 +46,22 @@
    
    *Figura 3.5*
    
-   4. LISTA DE COMPONENTES
+4. LISTA DE COMPONENTES
    
+![image](https://user-images.githubusercontent.com/75439689/104658443-ca0c1180-5690-11eb-9258-a51448fed16d.png)
+
+*Figura 4.1*
+
+5. EXPLICACIÓN
+
+ 5.1. Procedimiento
+   
+   
+ 5.2. Análisis de Superposición
+      
+   5.2.1. Voltaje de Va y Corriente de Ix
+      
+   Para el análisis del voltaje Va y la corriente Ix, se colocó: un voltímetro en la resistencia de 820 Ω en paralelo, y un amperímetro se conectó en serie a la resistencia de 470 Ω, los resultados fueron anotados en la tabla 
+      
+      
+
