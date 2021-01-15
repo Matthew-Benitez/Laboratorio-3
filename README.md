@@ -59,9 +59,33 @@
    
  5.2. Análisis de Superposición
       
-   5.2.1. Voltaje de Va y Corriente de Ix
+   - 5.2.1. Voltaje de Va y Corriente de Ix
       
-   Para el análisis del voltaje Va y la corriente Ix, se colocó: un voltímetro en la resistencia de 820 Ω en paralelo, y un amperímetro se conectó en serie a la resistencia de 470 Ω, los resultados fueron anotados en la tabla 
+   Para el análisis del voltaje Va y la corriente Ix, se colocó: un voltímetro en la resistencia de 820 Ω en paralelo, y un amperímetro se conectó en serie a la resistencia de 470 Ω, los resultados fueron anotados en la tabla 5-1 y la tabla 5-2; además se calcularon manualmente los resultados del voltaje Va y la corriente Ix; como se puede observar los resultados varian en una proporción muy pequeña pero aun así estos son diferentes.
+   
+   - 5.2.2. Voltaje de Va y Corriente de Ix cuando fuente de 12v es cero
+   
+   En la primera parte para la superposición se volvió a la fuente de 12v como una resistencia de 0 Ω, cambiando así el resultado del voltímetro de Va y del amperímetro de Ix, como se puede notar en las tablas 5-1 y 5-2. 
+   
+   - 5.2.3. Voltaje de Va y Corriente de Ix cuando fuente de 20v es cero
+   
+   Para la última parte del análisis del laboratorio se muestra que la fuente de 20v se convierte en una resistencia de 0 Ω, por lo que el circuito se analiza sin esta fuente de voltaje, en el simulador el voltímetro tiene un resultado negativo ya que este está conectado al contrario de la polaridad dada, los resultados fueron anotados en las tablas 5-1 y 5-2.
+   
+   ![image](https://user-images.githubusercontent.com/75439689/104662290-81585680-5698-11eb-9fca-9b22162f64e5.png)
+   
+   *Tabla 5-1*
+   
+   ![image](https://user-images.githubusercontent.com/75439689/104662305-8ddcaf00-5698-11eb-927a-27f801871eab.png)
+   
+   *Tabla 5-2*
+   
+   - 5.2.4. Análisis de Resultados y Comparaciones
+   
+   Como se puede observar en las tablas 5-1 y 5-2 el método de superposición se cumple ya que al sumar los voltajes Va dados por cada fuente de manera independiente de la otra, se obtiene el resultado de la primera medición del voltímetro. Además, no solo por parte del voltaje Va, también, por parte de la corriente Ix se cumple el método de superposición, ya que como se puede observar, la corriente Ix por parte de la fuente de 20v da 0 A y la corriente Ix por parte de la fuente de 12v da 25,5 mA, sumando estas nos da el resultado del amperímetro de la primera medición. Por otra parte, los resultados dados por el cálculo manual se creen que son más exactos ya que ellos no se saltan decimales, no obstante, los resultados calculados y los medidos son aproximados, por lo que se puede concluir que el circuito y los cálculos fueron bien tomados.
+   
+   - Porcentajes de Errores de las tablas 5-1 y 5-2
+   
+   ![image](https://user-images.githubusercontent.com/75439689/104663691-88cd2f00-569b-11eb-89bb-c727b8e75b18.png)
       
       
 
