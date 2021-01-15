@@ -55,8 +55,13 @@
 5. EXPLICACIÓN
 
  5.1. Procedimiento
-   
-   
+
+   - Ingresar a la plataforma *Tinkercad* y crear un nuevo circuito, en el cual se escogen los componentes listados anteriormente.
+   - Conectar el primer suministro de energía de 20 voltios a un extremo de la placa de pruebas (*protoboard*) uniendo respectivamente los polos positivos y negativos deL suministro y la placa; y de la misma manera, se conecta la otra fuente de voltaje de 12 voltios pero al otro extremo de la placa.
+   - A continuación se conecta en escalera las cuatro resistencias (cada una de ellas tiene diferente resistencia).
+   - Para finalizar la creación del circuito planteado, se conecta los suministros de energía a cada lado del circuito en escalera con sus respectivas terminales, generándose así un circuito de tres mallas: la primera malla consta de la fuente de 20 voltios y dos resistencias (de 1 y 2.2 kOhmios); la segundda malla se compone de tres esistencias (de 2.2, 0.82 y 0.47 kOmhios); y por último la tercera malla compuesta por la resistencia de 0.47 kOmhios y la fuente de 12 voltios.
+ 
+
  5.2. Análisis de Superposición
       
    - 5.2.1. Voltaje de Va y Corriente de Ix
@@ -87,10 +92,14 @@
    
    ![image](https://user-images.githubusercontent.com/75439689/104663691-88cd2f00-569b-11eb-89bb-c727b8e75b18.png)
    
-   6. CONCLUSIONES
-   
-   
-   7. BIBLIOGRAFÍA
+6. CONCLUSIONESS
+
+   - 
+ 
+7. BIBLIOGRAFÍA
+
+   - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
+
    
       
       
