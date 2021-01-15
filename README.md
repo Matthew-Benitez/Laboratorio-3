@@ -86,6 +86,12 @@
    - Porcentajes de Errores de las tablas 5-1 y 5-2
    
    ![image](https://user-images.githubusercontent.com/75439689/104663691-88cd2f00-569b-11eb-89bb-c727b8e75b18.png)
+   
+   6. CONCLUSIONES
+   
+   
+   7. BIBLIOGRAFÍA
+   
       
       
 
