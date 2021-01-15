@@ -94,7 +94,11 @@
    
 6. CONCLUSIONESS
 
-   - 
+   - El Teorema de Superposición resulta efectivo al analizar un circuito que se compone de dos o más fuentes de voltaje y/o corriente. Ya que puede causar cierta confusión al momento de resolver el circuito con los métodos de análisis básicos, por ello es práctico utilizar dicho método.
+   
+   - Después de haber hecho las respectivas mediciones en cada caso (analizando una fuente y poniendo la otra en cortocircuito) y sumando algebraicamente los valores obtenidos; se obtiene las mediciones iniciales que se realizó con ambas fuentes de voltaje, demostrándose así el método de análisis de circuitos que aplica el teorema de supreposición. 
+   
+   - Cabe destacar que en los cálculos es necesario determinar correctamente los signos tanto para la corriente como para los voltajes; ya que si se toma un sentido erróneo de una corriente o una polaridad errada de las caídas de voltaje, se obtienen resultados completamente desacertados. 
  
 7. BIBLIOGRAFÍA
 
